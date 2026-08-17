@@ -1,4 +1,4 @@
-# UVCE FLAM RND Assignment
+#  RND Assignment
 
 ## 1. Problem Statement
 
